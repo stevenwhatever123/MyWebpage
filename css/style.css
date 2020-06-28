@@ -148,40 +148,40 @@ button{
 	transition: .5s ease;
 	position: absolute;
 	top: 400px;
-	left: 500px;
+	left: 31%;
 }
 
 .foxyPlatformText{
 	transition: .5s ease;
 	position: absolute;
 	top: 350px;
-	left: 1150px;
+	left: 70%;
 }
 
 .fpsColumn{
 	transition: .5s ease;
 	position: absolute;
 	top: 750px;
-	left: 500px;
+	left: 38%;
 }
 
 .fpsText{
 	transition: .5s ease;
 	position: absolute;
 	top: 700px;
-	left: 1150px;
+	left: 70%;
 }
 
 .hashcodeColumn{
 	transition: .5s ease;
 	position: absolute;
 	top: 1100px;
-	left: 500px;
+	left: 35%;
 }
 
 .hashcodeText{
 	transition: .5s ease;
 	position: absolute;
 	top: 1050px;
-	left: 1150px;
+	left: 70%;
 }
