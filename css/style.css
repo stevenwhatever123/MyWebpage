@@ -56,6 +56,7 @@ a{
 	transition: .5s ease;
 	font-size: 35px;
 	color: blue;
+	margin-right: 1em;
 }
 
 p{
@@ -158,30 +159,16 @@ button{
 	left: 70%;
 }
 
-.fpsColumn{
+.noxengineColumn{
 	transition: .5s ease;
 	position: absolute;
-	top: 750px;
-	left: 38%;
+	top: 400px;
+	left: 31%;
 }
 
-.fpsText{
+.noxengineText{
 	transition: .5s ease;
 	position: absolute;
-	top: 700px;
-	left: 70%;
-}
-
-.hashcodeColumn{
-	transition: .5s ease;
-	position: absolute;
-	top: 1100px;
-	left: 35%;
-}
-
-.hashcodeText{
-	transition: .5s ease;
-	position: absolute;
-	top: 1050px;
-	left: 70%;
+	top: 350px;
+	left: 80%;
 }
