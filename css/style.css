@@ -186,3 +186,73 @@ button{
 	top: 750px;
 	left: 80%;
 }
+
+.FakeGLColumn{
+	transition: .5s ease;
+	position: absolute;
+	top: 1200px;
+	left: 42.5%;
+}
+
+.FakeGLText{
+	transition: .5s ease;
+	position: absolute;
+	top: 1150px;
+	left: 80%;
+}
+
+.LoopSubdivisionColumn{
+	transition: .5s ease;
+	position: absolute;
+	top: 1600px;
+	left: 42.5%;
+}
+
+.LoopSubdivisionText{
+	transition: .5s ease;
+	position: absolute;
+	top: 1550px;
+	left: 80%;
+}
+
+.InverseKinematicColumn{
+	transition: .5s ease;
+	position: absolute;
+	top: 2000px;
+	left: 42.5%;
+}
+
+.InverseKinematicText{
+	transition: .5s ease;
+	position: absolute;
+	top: 1950px;
+	left: 80%;
+}
+
+.PacManColumn{
+	transition: .5s ease;
+	position: absolute;
+	top: 2500px;
+	left: 35.5%;
+}
+
+.PacManText{
+	transition: .5s ease;
+	position: absolute;
+	top: 2450px;
+	left: 80%;
+}
+
+.NewsAppColumn{
+	transition: .5s ease;
+	position: absolute;
+	top: 3100px;
+	left: 35.5%;
+}
+
+.NewsAppText{
+	transition: .5s ease;
+	position: absolute;
+	top: 3050px;
+	left: 80%;
+}
